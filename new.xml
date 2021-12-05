@@ -1,0 +1,9 @@
+<person>
+	<Name>Karavaeva Ekaterina Anatolyevna</Name>
+	<Age/>
+	<Pets>0</Pets>
+	<Salary>
+		<Amount>450</Amount>
+		<Currency>usd</Currency>
+	</Salary>
+</person>

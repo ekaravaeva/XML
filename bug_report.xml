@@ -1,1 +1,4 @@
-
+<bug>
+  <title>This is a bug</title>
+  <priority>normal</priority>  
+</bug>

@@ -1,4 +1,11 @@
 <bug>
-  <title>This is a bug</title>
-  <priority>normal</priority>  
+	<title>Ошибка 500 при попытке сохранения изменений в файле bug_report.txt</title>
+	<steps>
+		<step>Открыть папку Courses</step>
+		<step>Открыть файл bug_report.txt</step>
+		<step>Внести изменения в файл</step>
+		<step>Нажать кнопку "Сommit changes"</step>
+	</steps>
+	<expected_result>Изменения сохранились</expected_result>
+	<result>Ошибка 500 при попытке сохранения изменений</result>
 </bug>
